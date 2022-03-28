@@ -1,4 +1,7 @@
 # Grocery List App
+## Project Link
+https://groceries-react-app.netlify.app/
+
 Run the code:
 ### `npm i`
 ### `npm start`
